@@ -55,7 +55,7 @@ I'm a student with a strong passion for **cybersecurity**. I'm building my skill
 ## 🧩 Mes projets / My projects
 
 <a href="https://github.com/Ramble-cstjean" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/327531153?s=200&v=4" alt="Description de l'image">
+  <img src="https://avatars.githubusercontent.com/u/327531153?s=200&v=4" alt="Description de l'image" width="32" height="32">
 </a>
 
 ## 🛠️ Langages & technologies
