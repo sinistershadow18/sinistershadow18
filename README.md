@@ -34,7 +34,7 @@ I'm a student with a strong passion for **cybersecurity**. I'm building my skill
 
 📫 **Get in touch:** [LinkedIn: Christin Soulières](https://www.linkedin.com/in/christin-souli%C3%A8res-1493412b9/)
 
-<sub>The languages, competitions and stats below are the same in both versions.</sub>
+<sub>The languages, competitions are the same in both versions.</sub>
 
 </details>
 
