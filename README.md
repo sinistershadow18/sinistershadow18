@@ -54,17 +54,7 @@ I'm a student with a strong passion for **cybersecurity**. I'm building my skill
 
 ## 🧩 Mes projets / My projects
 
-<a href="https://github.com/Ramble-cstjean"> <img src="https://avatars.githubusercontent.com/u/327531153?s=200&v=4" alt="Ramble-cstjean" width="64" height="64" align="left" hspace="12"> </a>
-
-Ramble-cstjean<br> <a href="https://rmble.ca"> <img src="https://img.shields.io/badge/VOIR%20LE%20SITE-1E73BE?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Voir le site" /> </a>
-
-<br clear="left">
-
-## 🛠️ Langages & technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cs,java,kotlin,js,ts,react,laravel,androidstudio,linux,mysql,php,rust&theme=dark" alt="Langages et technologies" />
-</p>
+<p align="center"> <a href="https://github.com/Ramble-cstjean"> <img src="https://avatars.githubusercontent.com/u/327531153?s=200&v=4" alt="Ramble-cstjean" width="96" height="96" /> </a> <br> <b><a href="https://github.com/Ramble-cstjean">Ramble-cstjean</a></b> <br><br> <a href="https://rmble.ca"> <img src="assets/voir-le-site.svg" alt="Voir le site" height="36" /> </a> </p>
 
 **Aussi :** programmation de réseaux · développement multiplateforme · développement Android
 
