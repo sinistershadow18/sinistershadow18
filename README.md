@@ -76,28 +76,26 @@ I'm a student with a strong passion for **cybersecurity**. I'm building my skill
 
 ## 🧩 Mes projets / My projects
 
-<p align="center">
-  <a href="https://github.com/Ramble-cstjean">
-    <img src="https://avatars.githubusercontent.com/u/327531153?s=200&v=4" alt="Ramble-cstjean" width="96" height="96" />
-  </a>
-  <br><br>
-  <a href="https://rmble.ca" title="Voir le site">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Voir le site" width="40" height="40" />
-  </a>
-</p>
-
----
-
-## 📊 Stats GitHub
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinistershadow18&theme=tokyonight" alt="Profil GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sinistershadow18&theme=tokyonight" height="170" alt="Langages les plus utilisés" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sinistershadow18&theme=tokyonight" height="170" alt="Statistiques GitHub" />
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" valign="middle" width="180">
+      <a href="https://github.com/Ramble-cstjean">
+        <img src="https://avatars.githubusercontent.com/u/327531153?s=200&v=4" alt="Ramble-cstjean" width="88" height="88" />
+      </a>
+    </td>
+    <td align="center" valign="middle" width="180">
+      <a href="https://rmble.ca" title="Visiter le site">
+        <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Chrome" width="40" height="40" />
+        <br>
+        <b>Voir le site</b>
+      </a>
+      <br>
+      <sub>🔗 rmble.ca</sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
