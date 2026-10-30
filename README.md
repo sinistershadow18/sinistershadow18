@@ -75,7 +75,7 @@ I'm a student with a strong passion for **cybersecurity**. I'm building my skill
 ---
 
 🧩 Mes projets / My projects
-<div align="center"> <table> <tr> <td align="center" valign="middle" width="180"> <a href="https://github.com/Ramble-cstjean"> <img src="https://avatars.githubusercontent.com/u/327531153?s=200&v=4" alt="Ramble-cstjean" width="88" height="88" /> </a> </td> <td align="center" valign="middle" width="180"> <a href="https://rmble.ca"> <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Chrome" width="40" height="40" /> <br> <sub>🔗 rmble.ca</sub> </a> </td> </tr> </table> </div>
+<div align="center"> <table> <tr> <td align="center" valign="middle" width="180"> <a href="https://github.com/Ramble-cstjean"> <img src="https://avatars.githubusercontent.com/u/327531153?s=200&v=4" alt="Ramble-cstjean" width="88" height="88" /> </a> </td> <td align="center" valign="middle" width="180"> <a href="https://rmble.ca" style="color: inherit; text-decoration: none;"> <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Chrome" width="40" height="40" /> <br> <sub>🔗 rmble.ca</sub> </a> </td> </tr> </table> </div>
 
 ---
 
