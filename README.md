@@ -12,6 +12,32 @@
   <img src="https://img.shields.io/badge/%23OpenToWork-Stage%20%2F%20Emploi-2E7D32?style=for-the-badge" alt="Open to work">
 </p>
 
+<details>
+<summary><b>🇬🇧 English version</b> (click to expand)</summary>
+
+<br>
+
+### 👋 Hi, I'm Christin
+
+**Student at Cégep de Saint-Jean-sur-Richelieu · Cybersecurity enthusiast**
+📍 Brossard, Quebec, Canada
+
+I'm a student with a strong passion for **cybersecurity**. I'm building my skills to specialize in:
+
+- 🦠 **Malware analysis**
+- 🔍 **Reverse engineering**
+- 🛡️ **Penetration testing** (pentesting)
+
+🎯 **Looking for an internship or a job** (hybrid).
+
+**Also:** network programming · cross-platform development · Android development
+
+📫 **Get in touch:** [LinkedIn: Christin Soulières](https://www.linkedin.com/in/christin-souli%C3%A8res-1493412b9/)
+
+<sub>The languages, competitions and stats below are the same in both versions.</sub>
+
+</details>
+
 ---
 
 ## 👤 À propos
@@ -36,7 +62,7 @@
 
 ---
 
-## 🏆 Compétitions de cybersécurité
+## 🏆 Compétitions de cybersécurité / Cybersecurity competitions
 
 <p align="center">
   <img src="https://img.shields.io/badge/Hackfest-2024-B71C1C?style=for-the-badge" alt="Hackfest 2024" />
