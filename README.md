@@ -34,7 +34,7 @@ I'm a student with a strong passion for **cybersecurity**. I'm building my skill
 
 📫 **Get in touch:** [LinkedIn: Christin Soulières](https://www.linkedin.com/in/christin-souli%C3%A8res-1493412b9/)
 
-<sub>The languages, competitions are the same in both versions.</sub>
+<sub>The languages, competitions and stats below are the same in both versions.</sub>
 
 </details>
 
@@ -52,9 +52,11 @@ I'm a student with a strong passion for **cybersecurity**. I'm building my skill
 
 ---
 
-## 🧩 Mes projets / My projects
+## 🛠️ Langages & technologies
 
-<p align="center"> <a href="https://github.com/Ramble-cstjean"> <img src="https://avatars.githubusercontent.com/u/327531153?s=200&v=4" alt="Ramble-cstjean" width="96" height="96" /> </a> <br> <b><a href="https://github.com/Ramble-cstjean">Ramble-cstjean</a></b> <br><br> <a href="https://rmble.ca"> <img src="assets/voir-le-site.svg" alt="Voir le site" height="36" /> </a> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,cs,java,kotlin,js,react,laravel,androidstudio,linux,mariadb&theme=dark" alt="Langages et technologies" />
+</p>
 
 **Aussi :** programmation de réseaux · développement multiplateforme · développement Android
 
@@ -68,6 +70,33 @@ I'm a student with a strong passion for **cybersecurity**. I'm building my skill
   <img src="https://img.shields.io/badge/NorthSec-2025-1565C0?style=for-the-badge" alt="NorthSec 2025" />
   <img src="https://img.shields.io/badge/UnitedCTF-2025-6A1B9A?style=for-the-badge" alt="UnitedCTF 2025" />
   <img src="https://img.shields.io/badge/PolyPWN-2026-E65100?style=for-the-badge" alt="PolyPWN 2026" />
+</p>
+
+---
+
+## 🧩 Mes projets / My projects
+
+<p align="center">
+  <a href="https://github.com/Ramble-cstjean">
+    <img src="https://avatars.githubusercontent.com/u/327531153?s=200&v=4" alt="Ramble-cstjean" width="96" height="96" />
+  </a>
+  <br><br>
+  <a href="https://rmble.ca" title="Voir le site">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Voir le site" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+## 📊 Stats GitHub
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinistershadow18&theme=tokyonight" alt="Profil GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sinistershadow18&theme=tokyonight" height="170" alt="Langages les plus utilisés" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sinistershadow18&theme=tokyonight" height="170" alt="Statistiques GitHub" />
 </p>
 
 ---
